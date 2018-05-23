@@ -1,5 +1,5 @@
 <?
-    //require_once ('header.php');
+    require_once ('header.php');
 //	error_reporting( E_ERROR );
 	require_once('connect.php');
 	
@@ -194,5 +194,5 @@
 		}
 	}
 
-//require_once ('footer.php');
+require_once ('footer.php');
 ?>
